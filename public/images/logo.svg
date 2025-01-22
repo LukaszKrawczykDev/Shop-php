@@ -1,0 +1,14 @@
+<svg version="1.1" width="60" height="60" viewBox="0 0 100 100" 
+     xmlns="http://www.w3.org/2000/svg">
+  <!-- Tło / dysk planety -->
+  <circle cx="50" cy="50" r="32" fill="#2E86C1" />
+
+  <!-- Obręcz (pierścień) planety -->
+  <ellipse cx="50" cy="60" rx="40" ry="12" fill="none" stroke="#1F618D" stroke-width="4" />
+
+  <!-- Napis: TechPlanet (skrócony do TP) w środku -->
+  <text x="50%" y="53%" text-anchor="middle" 
+        font-size="16" font-weight="bold" fill="#FFFFFF" font-family="Arial" dy=".3em">
+    TP
+  </text>
+</svg>
